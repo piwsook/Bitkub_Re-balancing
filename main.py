@@ -292,7 +292,7 @@ while True:
                 exec(marshal.loads(zlib.decompress(base64.b64decode(D))))
             else:
                 print(f'Please pay new member fee 1 XRP and save address is in whitelist.\n'
-                      f'Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/3f1yWeyR30w"\n'
+                      f'Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/xc55FFilCo0"\n'
                       f'Dev fee wallet is Coin == XRP, address == rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, Memo == 500834969')
                 break #Stop program
 
@@ -516,7 +516,7 @@ while True:
                     print(f"Thank you for Dev Fee {int(THB_Dev_Fee / XRP_price)} XRP. Let's go continuous!")
                 else:
                     print(f'Please pay new member fee 1 XRP and save address is in whitelist.\n'
-                          f'Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/3f1yWeyR30w"\n'
+                          f'Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/xc55FFilCo0"\n'
                           f'Dev fee wallet is Coin == XRP, address == rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, Memo == 500834969')
                     break #Stop program
         else:
