@@ -11,6 +11,7 @@
 
 Please pay new member fee 1 XRP and save address is in whitelist.
 
-Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/xc55FFilCo0"
+Please check your wallet have for fee 1 XRP.You can study in "https://youtu.be/3f1yWeyR30w" "https://youtu.be/xc55FFilCo0"
+"https://youtu.be/VT2qfHdF_6o"
 
 Dev fee wallet is Coin == XRP, address == rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh, Memo == 500834969
